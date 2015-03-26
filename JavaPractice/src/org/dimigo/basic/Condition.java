@@ -34,6 +34,6 @@ public class Condition {
 		System.out.println("거리 : " + distance + "km");
 		System.out.println("차종 : " +car);
 		System.out.println("통행료 : " + price + "원");
-	} 
+	}  
 
 }
