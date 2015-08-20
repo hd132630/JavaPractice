@@ -3,7 +3,7 @@ package org.dimigo.inheritance;
 public class Triangle extends Figure {
 	private int width;
 	private int height;
-	
+	 
 	public Triangle(int width, int height){
 		super(0,0);
 		this.width = width;

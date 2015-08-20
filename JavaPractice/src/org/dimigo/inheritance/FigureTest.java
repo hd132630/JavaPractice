@@ -21,7 +21,7 @@ public class FigureTest {
 		c.moveCenter(5, 5);
 		t.moveCenter(5, 5);
 		r.moveCenter(5, 5);
-		
+		 
 		c.printCenter();
 		t.printCenter();
 		r.printCenter();

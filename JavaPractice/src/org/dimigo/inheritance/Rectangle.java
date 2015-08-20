@@ -2,7 +2,7 @@ package org.dimigo.inheritance;
 
 public class Rectangle extends Figure {
 	private int width;
-	private int height;
+	private int height; 
 	
 	public Rectangle(int width, int height){
 		super(0,0);
