@@ -14,7 +14,7 @@ import java.util.List;
  * 2. 작성일 : 2015. 9. 28.
  * </pre>
  *
- * @author		: teacher
+ * @author		: teacherㄷㄴ
  * @version		: 1.0
  */
 public class Movie {

@@ -93,7 +93,7 @@ public class NaverSearch {
 	        File file = new File("files/movie.txt");
 	        
 	        try(BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
-		        // files/movies.txt 파일에 write하기
+		        // files/movies.txt 파일에 write하기   
 		        for(int i=0; i<movieList.size(); i++) {
 		        	Movie movie = movieList.get(i);
 		        	writer.write(i+1 + "." + movie.getTitle() + "-" + movie.getActors() + "\n");
